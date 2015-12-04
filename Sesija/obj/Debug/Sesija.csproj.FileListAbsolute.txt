@@ -1,0 +1,7 @@
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Sesija\bin\Debug\Sesija.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Sesija\bin\Debug\Sesija.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Sesija\bin\Debug\Biblioteka.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Sesija\bin\Debug\Biblioteka.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Sesija\obj\Debug\Sesija.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Sesija\obj\Debug\Sesija.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache

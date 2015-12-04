@@ -1,0 +1,14 @@
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\bin\Debug\Server.exe
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\bin\Debug\Server.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\bin\Debug\Biblioteka.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\bin\Debug\Sesija.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\bin\Debug\SistemskeOperacije.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\bin\Debug\Biblioteka.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\bin\Debug\Sesija.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\bin\Debug\SistemskeOperacije.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\obj\x86\Debug\Server.Form1.resources
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\obj\x86\Debug\Server.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\obj\x86\Debug\Server.exe
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\Server\obj\x86\Debug\Server.pdb

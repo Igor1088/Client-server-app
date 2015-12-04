@@ -1,0 +1,7 @@
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb

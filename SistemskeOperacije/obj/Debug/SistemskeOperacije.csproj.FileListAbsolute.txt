@@ -1,0 +1,9 @@
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\SistemskeOperacije\bin\Debug\Biblioteka.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\SistemskeOperacije\bin\Debug\Sesija.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\SistemskeOperacije\bin\Debug\Sesija.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb

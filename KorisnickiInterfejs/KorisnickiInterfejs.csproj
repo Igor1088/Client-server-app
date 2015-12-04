@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{57B58F5D-00B4-4B43-8DB1-C85F9462F1FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KorisnickiInterfejs</RootNamespace>
+    <AssemblyName>KorisnickiInterfejs</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IzmenaDobavljaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzmenaDobavljaca.Designer.cs">
+      <DependentUpon>IzmenaDobavljaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaIBrisanjeProizvoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzmenaIBrisanjeProizvoda.Designer.cs">
+      <DependentUpon>IzmenaIBrisanjeProizvoda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaRacuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzmenaRacuna.Designer.cs">
+      <DependentUpon>IzmenaRacuna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PocetnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PocetnaForma.Designer.cs">
+      <DependentUpon>PocetnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prijava.Designer.cs">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StornirajRacun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StornirajRacun.Designer.cs">
+      <DependentUpon>StornirajRacun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnosDobavljaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosDobavljaca.Designer.cs">
+      <DependentUpon>UnosDobavljaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnosProizvoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosProizvoda.Designer.cs">
+      <DependentUpon>UnosProizvoda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnosRacuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosRacuna.Designer.cs">
+      <DependentUpon>UnosRacuna.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="IzmenaDobavljaca.resx">
+      <DependentUpon>IzmenaDobavljaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzmenaIBrisanjeProizvoda.resx">
+      <DependentUpon>IzmenaIBrisanjeProizvoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzmenaRacuna.resx">
+      <DependentUpon>IzmenaRacuna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PocetnaForma.resx">
+      <DependentUpon>PocetnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prijava.resx">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="StornirajRacun.resx">
+      <DependentUpon>StornirajRacun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnosDobavljaca.resx">
+      <DependentUpon>UnosDobavljaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnosProizvoda.resx">
+      <DependentUpon>UnosProizvoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnosRacuna.resx">
+      <DependentUpon>UnosRacuna.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KontrolerKorisnickogInterfejsa\KontrolerKorisnickogInterfejsa.csproj">
+      <Project>{6D6DDF4C-4669-437F-979E-4397575C77F2}</Project>
+      <Name>KontrolerKorisnickogInterfejsa</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,9 @@
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+c:\users\igor\documents\visual studio 2010\Projects\Projektni\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
